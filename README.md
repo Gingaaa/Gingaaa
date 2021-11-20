@@ -2,7 +2,7 @@
          👋
 -  I’m interested in developing excellent, more creative Website.
                       👀
-- 🌱 I’m currently learning backend development.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate with other Web developer.
 - 📫 You can reach me through LinkedIn.
 
