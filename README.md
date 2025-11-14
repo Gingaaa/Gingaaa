@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Web Apps**, **Mobile Apps** and **Open Source Projects**
 
-- 👯 I’m looking to collaborate on **Artificial Intelligence Projects**, **Open SOurce Projects** and more
+- 👯 I’m looking to collaborate on **Artificial Intelligence Projects**, **Open Source Projects** and more
 
 - 💬 Ask me only **After you have Googled/binged it! 😏😬 **
 
