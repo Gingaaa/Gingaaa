@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as a Software Developer at SetIndiabiz.<br>Interested in countributing to open-sources and give life to great ideas
+I'm currently working as a Associate Developer L1.<br>Interested in countributing to open-sources and give life to great ideas
 
 
 ## 🌐 Socials:
